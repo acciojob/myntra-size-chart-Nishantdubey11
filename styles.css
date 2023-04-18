@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+table, th, td {
+	border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table{
+	width:100%;
+}
+
+thead{
+	background-color: indianred;
+}
+
+.waist{
+	background-color:   rgb(215, 149, 149);
+}
+
+.chest{
+	background-color:  rgb(243, 226, 226) ;
+}
+
+.sleeve{
+	background-color: rgb(124, 123, 152); 
+}
+
+
